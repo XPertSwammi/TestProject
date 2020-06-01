@@ -1,15 +1,5 @@
 # Webpack Bootstrap 4 template
 
-### Description
-
-This project contains preconfigured Webpack 4 to work with the following tasks:
-
-- Compile `SCSS` to `CSS`
-- Optimize images (`*.png`, `*.jpeg`, `*.gif`)
-- Convert `SVG` into inline `'data:image'` format
-- Fonts loader
-- Automatic copy `static` directory to the `dist` directory
-- Production optimization (styles, JavaScript, images)
 - Build source maps
 
 ### Includes
@@ -19,19 +9,6 @@ This project contains preconfigured Webpack 4 to work with the following tasks:
 - Popper
 - Google Material Icons
 
-### Installation
-
-- Execute a command from the root directory
-```
-npm install
-```
-- Use '`index.html`' as home page
-- Write Your own JavaScript in the file: `src/js/app.js`
-- Also Your styles may be placed in the SCSS file: `src/scss/app.scss`
-- Then run the following command to build `dev` bundle:
-```
-npm run build
-``` 
 - **Good luck!**
 
 ### Project structure
